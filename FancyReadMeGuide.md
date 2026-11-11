@@ -233,7 +233,7 @@ The first section will be the text when you hover the image. Place a ! before yo
 Before you ask, GIFs do work on READMEs too. 
 
 **Example:**
-![Steamboat Willie]([https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNpanU4Y2lzbzA0eGE1ajdoaHVpY3c3a2NucjEzdGJqYTl5bzh0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2JhL0Gpfbvs4Y07K/giphy.gif)
+![Steamboat Willie](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNpanU4Y2lzbzA0eGE1ajdoaHVpY3c3a2NucjEzdGJqYTl5bzh0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2JhL0Gpfbvs4Y07K/giphy.gif)
 
 ** Raw Example**
 ```
