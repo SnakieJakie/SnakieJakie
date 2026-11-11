@@ -224,7 +224,7 @@ The first section will be the text when you hover the image. Place a ! before yo
 **Example:**
 ![Steamboat Willie](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Steamboat_Willie_1928_Poster.png/960px-Steamboat_Willie_1928_Poster.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
-** Raw Example**
+**Raw Example**
 
 ```
 ![Steamboat Willie](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Steamboat_Willie_1928_Poster.png/960px-Steamboat_Willie_1928_Poster.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
