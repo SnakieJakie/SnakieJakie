@@ -241,9 +241,20 @@ Before you ask, GIFs do work on READMEs too. They just don't show up on previews
 ![Steamboat Willie](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNpanU4Y2lzbzA0eGE1ajdoaHVpY3c3a2NucjEzdGJqYTl5bzh0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2JhL0Gpfbvs4Y07K/giphy.gif)
 ```
 Images also work in tables. 
+
+**Example:**
+
 | Mickey Mouse cartoon  | Date of release |
 | ------------- | - 
 | ![Plane Crazy](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/1_-_Plane_Crazy.jpg/250px-1_-_Plane_Crazy.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)  | May 15, 1928 |
 | ![The Gallopin' Gaucho](https://static.wikia.nocookie.net/disney/images/e/ef/The_Gallopin%27_Gaucho_WDT_title_card.jpeg/revision/latest?cb=20230822160554)  | August 7, 1928 |
 | ![Steamboat Willie](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSfEUGz8qNhykCnEccaWGjN2hYGMU2SAUAwh5DmekaPZyZY31pvEF_wxA&s=10)   | November 18, 1928 |
 
+** Raw Example:**
+```
+| Mickey Mouse cartoon  | Date of release |
+| ------------- | - 
+| ![Plane Crazy](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/1_-_Plane_Crazy.jpg/250px-1_-_Plane_Crazy.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)  | May 15, 1928 |
+| ![The Gallopin' Gaucho](https://static.wikia.nocookie.net/disney/images/e/ef/The_Gallopin%27_Gaucho_WDT_title_card.jpeg/revision/latest?cb=20230822160554)  | August 7, 1928 |
+| ![Steamboat Willie](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSfEUGz8qNhykCnEccaWGjN2hYGMU2SAUAwh5DmekaPZyZY31pvEF_wxA&s=10)   | November 18, 1928 |
+```
