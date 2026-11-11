@@ -4,7 +4,7 @@ I tend to forget how to do certain stuff on GitHub READMEs. This will be a guide
 
 <!-- Headline Guide. -->
 # Headlines! Oh, this is one too!
-Adding headlines is as easy as adding a # (hashtag) to a piece of text.
+Adding headlines is as easy as adding a ```#``` (hashtag) to a piece of text.
 
 <!-- This a markdown comment. It does not render in the README. -->
 ```
