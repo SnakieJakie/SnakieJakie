@@ -219,7 +219,7 @@ Like formatting, you can have text links in tables.
 # Images
 Images are probably the most wanted to have in a README. Luckily, they are simple to put in. In fact, they are the same as links.
 
-The first section will be the text when you hover the image. Place a ! before you text and then wrap it around with ```[]``` (square brackets) , then with ```()``` (parentheses), wrap the link to your image. Note, you need to have the image open separately from a page. If you just link to the page where you image, it will become a text link. You must link to the image itself.
+The first section will be the text when you hover the image. Place a ```!``` (exclamation mark) before you text and then wrap it around with ```[]``` (square brackets) , then with ```()``` (parentheses), wrap the link to your image. Note, you need to have the image open separately from a page. If you just link to the page where you image, it will become a text link. You must link to the image itself.
 
 **Example:**
 ![Steamboat Willie](https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Steamboat_Willie_1928_Poster.png/960px-Steamboat_Willie_1928_Poster.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
