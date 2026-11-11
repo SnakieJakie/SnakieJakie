@@ -44,20 +44,20 @@ Blah blah blah......
 </details>
 
 
-<!-- End of Headline Guide. -->
 
-<!-- Text fun stuff Guide. -->
 # Text fun stuff
 
 ## Quotes
-You can make a block of a "normal quote" by adding > (greater-than sign) and ending it with a < (less-than sign).
+You can make a block of a "normal quote" by adding a ```>``` (greater-than sign) and ending it with a ```<``` (less-than sign).
 
-**How it looks in raw:**
+**Example:**
+> // I still call DoomGuy "The Marine", it's cooler that way. (Jakie, Spider's Delight) <
+
+
+**Raw Example:**
 
 ``` > // I still call DoomGuy "The Marine", it's cooler that way. (Jakie, Spider's Delight) < ```
 
-**In Preview**
-> // I still call DoomGuy "The Marine", it's cooler that way. (Jakie, Spider's Delight) <
 
 
 ## Code Quotes
