@@ -39,9 +39,9 @@ Me
 
 
 With headlines, you can make a table of contents with the little link icon that pops up next to a headline when you hover over it. 
- - [Big one](https://github.com/SnakieJakie/SnakieJakie/new/main#a-headline)
+ - [Big one](https://github.com/SnakieJakie/SnakieJakie/blob/main/FancyReadMeGuide.md#a-headline)
 
- - [Medium one](https://github.com/SnakieJakie/SnakieJakie/new/main#adding-2-makes-it-a-bit-smaller-than-just-1-but-a-bit-bigger-than-normal-text)
+ - [Medium one](https://github.com/SnakieJakie/SnakieJakie/blob/main/FancyReadMeGuide.md#adding-2-makes-it-a-bit-smaller-than-just-1-but-a-bit-bigger-than-normal-text)
 
- - [Small one](https://github.com/SnakieJakie/SnakieJakie/new/main#a-headline)
+ - [Small one](https://github.com/SnakieJakie/SnakieJakie/blob/main/FancyReadMeGuide.md#adding-3-makes-it-still-bold-but-the-same-size-as-normal-text)
 
